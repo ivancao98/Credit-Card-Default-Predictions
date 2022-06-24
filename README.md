@@ -1,5 +1,5 @@
 # Credit-Card-Default-Predictions
 
-Predicting for Credit Card Defaults and selecting a model based off of its performance. 
+Conducting Exploratory Data Analysis when predicting for credit card defaults and selecting a model based off of its performance. 
 
 https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients.
